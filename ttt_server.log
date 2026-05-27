@@ -1,0 +1,157 @@
+[2024-02-06 00:46:40] INFO: Reserved port 1111
+[2024-02-06 00:46:40] INFO: Listening to port 1111
+[2024-02-06 00:48:01] INFO: Received connection from ('127.0.0.1', 40930)
+[2024-02-06 00:48:27] INFO: Received connection from ('127.0.0.1', 55712)
+[2024-02-06 00:48:27] INFO: Player 2 is matched with player 1
+[2024-02-06 00:48:43] WARNING: Player 2 connection lost.
+[2024-02-06 00:48:43] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2024-02-06 00:57:55] WARNING: There is an error when trying to bind 
+[2024-02-06 00:58:02] WARNING: There is an error when trying to bind 80
+[2024-02-06 00:58:06] CRITICAL: Server critical failure.
+None
+[2024-02-06 00:58:09] WARNING: There is an error when trying to bind 80
+[2024-02-06 00:58:11] CRITICAL: Server critical failure.
+
+[2024-02-06 00:58:16] INFO: Reserved port 1111
+[2024-02-06 00:58:16] INFO: Listening to port 1111
+[2024-02-06 00:59:00] CRITICAL: Server critical failure.
+
+[2024-02-06 00:59:04] INFO: Reserved port 8080
+[2024-02-06 00:59:04] INFO: Listening to port 8080
+[2024-02-06 01:00:08] INFO: Received connection from ('127.0.0.1', 34608)
+[2024-02-06 01:00:25] INFO: Received connection from ('127.0.0.1', 52866)
+[2024-02-06 01:00:25] INFO: Player 2 is matched with player 1
+[2024-02-06 01:00:43] INFO: Received connection from ('127.0.0.1', 55678)
+[2024-02-06 01:00:49] WARNING: Player 1 connection lost.
+[2024-02-06 01:00:49] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2024-02-06 01:00:55] INFO: Received connection from ('127.0.0.1', 37262)
+[2024-02-06 01:00:55] INFO: Player 4 is matched with player 3
+[2024-02-06 01:03:13] INFO: Reserved port 8080
+[2024-02-06 01:03:13] INFO: Listening to port 8080
+[2024-02-06 01:08:07] INFO: Reserved port 1234
+[2024-02-06 01:08:07] INFO: Listening to port 1234
+[2024-02-06 01:10:12] INFO: Received connection from ('127.0.0.1', 64269)
+[2024-02-06 01:10:37] INFO: Received connection from ('127.0.0.1', 64302)
+[2024-02-06 01:10:37] INFO: Player 2 is matched with player 1
+[2024-02-06 01:20:14] INFO: Reserved port 8080
+[2024-02-06 01:20:14] INFO: Listening to port 8080
+[2024-02-06 01:20:24] INFO: Received connection from ('127.0.0.1', 65466)
+[2024-02-06 01:20:46] INFO: Received connection from ('127.0.0.1', 65527)
+[2024-02-06 01:20:46] INFO: Player 2 is matched with player 1
+[2024-02-06 01:20:58] INFO: q
+[2024-02-06 01:20:58] WARNING: Player 1 connection lost.
+[2024-02-06 01:20:58] WARNING: Player 1 connection lost.
+[2024-02-06 01:20:58] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2024-02-06 01:21:24] INFO: Received connection from ('127.0.0.1', 49191)
+[2024-02-06 01:21:37] INFO: Received connection from ('127.0.0.1', 49203)
+[2024-02-06 01:21:37] INFO: Player 4 is matched with player 3
+[2024-02-06 01:22:13] INFO: Received connection from ('127.0.0.1', 49360)
+[2024-02-06 01:22:17] WARNING: Player 5 connection lost.
+[2024-02-06 01:27:39] INFO: Reserved port 1234
+[2024-02-06 01:27:39] INFO: Listening to port 1234
+[2024-02-06 01:27:57] INFO: Received connection from ('127.0.0.1', 50941)
+[2024-02-06 01:28:10] INFO: Received connection from ('127.0.0.1', 50957)
+[2024-02-06 01:28:10] INFO: Player 2 is matched with player 1
+[2024-02-06 01:32:28] INFO: Reserved port 8080
+[2024-02-06 01:32:28] INFO: Listening to port 8080
+[2024-02-06 01:32:48] INFO: Received connection from ('127.0.0.1', 51442)
+[2024-02-06 01:33:15] INFO: Received connection from ('127.0.0.1', 51481)
+[2024-02-06 01:33:15] INFO: Player 2 is matched with player 1
+[2024-02-06 01:33:53] INFO: Received connection from ('127.0.0.1', 51538)
+[2024-02-06 01:34:02] INFO: Received connection from ('127.0.0.1', 51550)
+[2024-02-06 01:34:02] INFO: Player 4 is matched with player 3
+[2024-02-06 01:34:47] INFO: 
+[2024-02-06 01:34:47] WARNING: Player 3 connection lost.
+[2024-02-06 01:34:47] WARNING: Player 3 connection lost.
+[2024-02-06 01:34:47] WARNING: Game between 4 and 3 is finished unexpectedly.
+[2024-02-13 17:02:55] INFO: Reserved port 8080
+[2024-02-13 17:02:55] INFO: Listening to port 8080
+[2024-02-13 17:03:54] INFO: Reserved port 1111
+[2024-02-13 17:03:54] INFO: Listening to port 1111
+[2024-02-13 17:04:42] INFO: Reserved port 1111
+[2024-02-13 17:04:42] INFO: Listening to port 1111
+[2024-02-13 17:10:59] INFO: Reserved port 8080
+[2024-02-13 17:10:59] INFO: Listening to port 8080
+[2024-02-13 17:11:08] INFO: Received connection from ('127.0.0.1', 56720)
+[2024-02-13 17:12:57] INFO: Received connection from ('127.0.0.1', 56844)
+[2024-02-13 17:12:57] INFO: Player 2 is matched with player 1
+[2024-02-13 17:13:10] INFO: q
+[2024-02-13 17:13:10] WARNING: Player 1 connection lost.
+[2024-02-13 17:13:10] WARNING: Player 1 connection lost.
+[2024-02-13 17:13:10] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2024-02-13 17:14:19] INFO: Received connection from ('127.0.0.1', 56903)
+[2024-02-13 17:14:50] INFO: Received connection from ('127.0.0.1', 56929)
+[2024-02-13 17:14:50] INFO: Player 4 is matched with player 3
+[2024-02-13 17:15:03] INFO: Received connection from ('127.0.0.1', 56944)
+[2024-02-13 17:15:05] INFO: Received connection from ('127.0.0.1', 56945)
+[2024-02-13 17:15:05] INFO: Player 6 is matched with player 5
+[2024-02-13 17:15:21] INFO: q
+[2024-02-13 17:15:21] WARNING: Player 5 connection lost.
+[2024-02-13 17:15:21] WARNING: Player 5 connection lost.
+[2024-02-13 17:15:21] WARNING: Game between 6 and 5 is finished unexpectedly.
+[2024-02-13 17:15:28] INFO: Received connection from ('127.0.0.1', 56959)
+[2024-02-13 17:16:42] INFO: Received connection from ('127.0.0.1', 57000)
+[2024-02-13 17:16:42] INFO: Player 8 is matched with player 7
+[2024-02-13 17:16:43] WARNING: Player 7 connection lost.
+[2024-02-13 17:16:49] INFO: Received connection from ('127.0.0.1', 57003)
+[2024-02-13 17:16:53] WARNING: Player 7 connection lost.
+[2024-02-13 17:16:53] WARNING: Game between 8 and 7 is finished unexpectedly.
+[2024-02-13 17:17:18] INFO: Received connection from ('127.0.0.1', 57021)
+[2024-02-13 17:17:18] INFO: Player 10 is matched with player 9
+[2024-02-13 17:17:19] WARNING: Player 9 connection lost.
+[2024-02-13 17:18:01] INFO: Received connection from ('127.0.0.1', 57046)
+[2024-02-13 17:18:40] WARNING: Player 11 connection lost.
+[2024-02-13 17:22:13] INFO: Reserved port 8080
+[2024-02-13 17:22:13] INFO: Listening to port 8080
+[2024-02-13 17:22:35] INFO: Received connection from ('127.0.0.1', 57370)
+[2024-02-13 17:22:36] INFO: Received connection from ('127.0.0.1', 57372)
+[2024-02-13 17:22:36] INFO: Player 2 is matched with player 1
+[2024-02-13 17:22:47] INFO: Received connection from ('127.0.0.1', 57380)
+[2024-02-13 17:22:48] INFO: Received connection from ('127.0.0.1', 57381)
+[2024-02-13 17:22:48] INFO: Player 4 is matched with player 3
+[2024-02-13 17:23:01] INFO: Received connection from ('127.0.0.1', 57387)
+[2024-02-13 17:23:02] INFO: Received connection from ('127.0.0.1', 57389)
+[2024-02-13 17:23:02] INFO: Player 6 is matched with player 5
+[2024-02-13 17:23:05] WARNING: Player 5 connection lost.
+[2024-02-13 17:23:05] WARNING: Player 5 connection lost.
+[2024-02-13 17:23:05] WARNING: Game between 6 and 5 is finished unexpectedly.
+[2024-02-13 17:23:15] INFO: Received connection from ('127.0.0.1', 57399)
+[2024-02-13 17:23:18] INFO: Received connection from ('127.0.0.1', 57401)
+[2024-02-13 17:23:18] INFO: Player 8 is matched with player 7
+[2024-02-13 17:49:17] INFO: Reserved port 8080
+[2024-02-13 17:49:17] INFO: Listening to port 8080
+[2024-02-13 17:49:59] INFO: Received connection from ('127.0.0.1', 61329)
+[2024-02-13 17:50:01] INFO: Received connection from ('127.0.0.1', 61330)
+[2024-02-13 17:50:01] INFO: Player 2 is matched with player 1
+[2024-02-15 15:05:00] INFO: Reserved port 8080
+[2024-02-15 15:05:00] INFO: Listening to port 8080
+[2024-02-15 20:22:19] INFO: Received connection from ('127.0.0.1', 60840)
+[2024-02-15 20:23:49] INFO: Received connection from ('127.0.0.1', 60903)
+[2024-02-15 20:23:49] INFO: Player 2 is matched with player 1
+[2024-02-15 20:24:11] INFO: Received connection from ('127.0.0.1', 60905)
+[2024-02-15 20:24:12] INFO: Received connection from ('127.0.0.1', 60906)
+[2024-02-15 20:24:12] INFO: Player 4 is matched with player 3
+[2024-02-15 20:24:19] INFO: Received connection from ('127.0.0.1', 60907)
+[2024-02-15 20:24:20] INFO: Received connection from ('127.0.0.1', 60908)
+[2024-02-15 20:24:20] INFO: Player 6 is matched with player 5
+[2024-02-15 21:26:42] INFO: q
+[2024-02-15 21:26:42] WARNING: Player 5 connection lost.
+[2024-02-15 21:26:42] WARNING: Player 5 connection lost.
+[2024-02-15 21:26:42] WARNING: Game between 6 and 5 is finished unexpectedly.
+[2024-02-15 21:26:47] INFO: Received connection from ('127.0.0.1', 50813)
+[2024-02-15 21:26:48] INFO: Received connection from ('127.0.0.1', 50814)
+[2024-02-15 21:26:48] INFO: Player 8 is matched with player 7
+[2024-02-15 21:36:38] INFO: Received connection from ('127.0.0.1', 51253)
+[2024-02-15 21:37:01] WARNING: Player 9 connection lost.
+[2024-02-15 21:37:08] WARNING: Player 7 connection lost.
+[2024-02-15 21:37:08] WARNING: Game between 8 and 7 is finished unexpectedly.
+[2024-02-15 21:37:38] INFO: Received connection from ('127.0.0.1', 51337)
+[2024-02-15 21:37:39] INFO: Received connection from ('127.0.0.1', 51340)
+[2024-02-15 21:37:39] INFO: Player 11 is matched with player 10
+[2024-02-15 21:37:59] INFO: 
+[2024-02-15 21:37:59] WARNING: Player 11 connection lost.
+[2024-02-15 21:37:59] WARNING: Player 11 connection lost.
+[2024-02-15 21:37:59] WARNING: Game between 11 and 10 is finished unexpectedly.
+[2024-02-15 21:38:07] INFO: Received connection from ('127.0.0.1', 51366)
+[2024-02-15 21:38:08] INFO: Received connection from ('127.0.0.1', 51367)
+[2024-02-15 21:38:08] INFO: Player 13 is matched with player 12
